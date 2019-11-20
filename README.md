@@ -4,7 +4,7 @@ Enable and set the border radius of the webview
 
 ## Process:
 
-- ✅[ios] getPhotos
+- ✅[ios] setBorderRadius
 - ☑️[Android] need your help! please submit your changes, I will merge and publish
 
 ## Install
